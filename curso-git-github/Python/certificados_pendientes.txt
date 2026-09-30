@@ -1,0 +1,12 @@
+=========================================
+   REPORTE DE CERTIFICADOS PENDIENTES    
+=========================================
+Total de graduandos en cola: 1
+
+1. [1234567890] Angeles Salaverria
+   - Programa: Curso
+   - Promedio Final: 20.0
+   - Estatus: APROBADO
+
+=========================================
+* Fin del reporte - Generado por SGA-DO *
